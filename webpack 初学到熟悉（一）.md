@@ -432,3 +432,8 @@ module.exports = {
 - Webpack的配置和实战--配置一个简单的脚手架
 - Webpack性能优化
 - Webpack原理和总结
+
+参考:
+
+- 《深入浅出webpack》
+- 掘金-[《看完这篇还搞不懂webpack，求你打我》](https://juejin.im/post/5e01de37f265da33ab637daf#heading-5/)
